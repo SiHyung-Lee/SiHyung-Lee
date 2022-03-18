@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSiHyung-Lee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiHyung-Lee&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/SiHyung-Lee/React-UI-Components)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiHyung-Lee&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/SiHyung-Lee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiHyung-Lee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
