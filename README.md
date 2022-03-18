@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <img src="https://img.shields.io/badge/HTML-3DDC84?style=flat-square&logo=HTML&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-3DDC84?style=flat-square&logo=HTML5&logoColor=#E34F26"/>
 </p>
 
 
