@@ -1,8 +1,9 @@
 
-##### 👋  Hi there! I'm UI developer who wants to become a front-end developer.🚀
-- 🔭 I’m currently working on UI Developer
-- 🌱 I’m currently learning React
-<br><br>
+<p>
+  ##### 👋  Hi there! I'm UI developer who wants to become a front-end developer.🚀<br>
+  🔭 I’m currently working on UI Developer
+  🌱 I’m currently learning React
+</p>
 ### 💪 Skills
 #### Platforms & Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
