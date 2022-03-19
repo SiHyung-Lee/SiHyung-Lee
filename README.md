@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi. I am working as a UI developer and dreaming of becoming a front-end developer.
+
 <!--
 **SiHyung-Lee/SiHyung-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
