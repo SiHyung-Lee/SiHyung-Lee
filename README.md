@@ -4,7 +4,7 @@
   🔭 I’m currently working on UI Developer<br> 
   🌱 I’m currently learning React
 </p>
-<br><br>
+<br>
 
 ### 💪 Skills
 #### Platforms & Languages
