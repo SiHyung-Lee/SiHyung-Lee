@@ -1,4 +1,4 @@
-### Hi I'm SiHyung Lee 👋  
+### Hi! I'm SiHyung Lee 👋  
 ##### UI developer who wants to become a front-end developer.  
 - 🔭 I’m currently working on UI Developer
 - 🌱 I’m currently learning React
