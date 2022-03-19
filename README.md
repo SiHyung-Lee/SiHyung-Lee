@@ -1,8 +1,8 @@
 ##### 👋  Hi there! I'm UI developer who wants to become a front-end developer.🚀<br><br>
 
 <p>
-  🔭 I’m currently working on UI Developer<br> 
-  🌱 I’m currently learning React
+  I’m currently working on UI Developer 🔭<br> 
+  I’m currently learning React 🌱
 </p>
 <br>
 
@@ -23,5 +23,7 @@
 
 ![WebStorm](https://img.shields.io/badge/WebStorm-000?style=flat-square&logo=WebStorm&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
+
+<br><br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SiHyung-Lee&theme=react&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiHyung-Lee&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
