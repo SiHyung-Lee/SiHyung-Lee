@@ -1,8 +1,7 @@
-👋  Hi there! I'm UI developer who wants to become a front-end developer.🚀<br><br>
+👋  Hi there! I'm UI developer who wants to become a front-end developer.🚀<br>
 
 I’m currently working on UI Developer 🔭<br> 
-I’m currently learning React 🌱
-<br>
+I’m currently learning React 🌱<br><br>
 
 ### 💪 Skills
 #### Platforms & Languages
