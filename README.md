@@ -16,7 +16,7 @@ I’m currently learning React 🌱<br><br>
 #### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat-square&logo=AzureDevOps&logoColor=white)
 
 ![WebStorm](https://img.shields.io/badge/WebStorm-000?style=flat-square&logo=WebStorm&logoColor=white)
