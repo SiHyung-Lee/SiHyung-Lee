@@ -16,7 +16,8 @@ I’m currently learning React 🌱<br><br>
 #### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![AzureDevOps](https://img.shields.io/badge/AzureDevOps-0078D7?style=flat-square&logo=AzureDevOps&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat-square&logo=AzureDevOps&logoColor=white)
 
 ![WebStorm](https://img.shields.io/badge/WebStorm-000?style=flat-square&logo=WebStorm&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
@@ -24,3 +25,5 @@ I’m currently learning React 🌱<br><br>
 <br><br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SiHyung-Lee&theme=react&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiHyung-Lee&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
+
+
